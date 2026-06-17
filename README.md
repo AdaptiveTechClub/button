@@ -1,5 +1,5 @@
 # Adaptive Button
-
+![Image Render](src/ImageRender.png)
 This adaptive button is a 3D-printed accessibility switch designed for use with adapted toys and assistive technology. It is intended to be easy to press for children and individuals who may have difficulty operating small or stiff buttons. The button is made up of three printed parts that assemble without tools (beyond an optional dab of glue) and a standard off-the-shelf switch. The design is open and easy to customize, reprint, or repair.
 
 Key Features
@@ -13,6 +13,7 @@ Key Features
 ---
 
 ### Parts Overview
+![Exploded](src/Exploded.png)
 
 The button consists of three 3D-printed components and one electronic switch. Each part is described below.
 
